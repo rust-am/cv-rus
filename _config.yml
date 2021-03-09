@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/jameswgrant
+repository: rust-am/cv-rus
 favicon: images/favicon.ico
 
 version: 1
@@ -8,10 +8,10 @@ version: 1
 name: Рустам Шайдуллов
 title: Ryby on Rails Developer
 email: 28rustam@gmail.com
-phone: +79872947036
+phone: 9872947036
 
 # Social links
-twitter_username: russel_ocean
+twitter_username: russell_ocean
 github_username:  rust-am
 # dribbble_username:
 # facebook_username:
@@ -28,6 +28,12 @@ about_profile_image: images/jg.jpg
 about_content: |
   Привет, меня зовут Рустам, я геолог который хочет стать <mark>Ruby on Rails</mark> веб-разработчиком. 
   В настоящее время учусь ...
+
+more_title: Skils
+more_content: |
+  <mark>Ruby on Rails</mark>
+
+  <mark>Ruby</mark>: понимание принципов ООП, важности code-style и да, гемы лучшие друзья
 
 # Projects Section
 # projects_title: Projects
