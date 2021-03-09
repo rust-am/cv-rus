@@ -29,25 +29,73 @@ about_content: |
   Привет, меня зовут Рустам, я геолог который хочет стать <mark>Ruby on Rails</mark> веб-разработчиком. 
   В настоящее время учусь ...
 
-more_title: Skils
-more_content: |
-  <mark>Ruby on Rails</mark>: любое действие в жизни сначала расписываю по CRUDL, пытаюсь разделить жизнь на MVC
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: middle
+        title: barbecue
+        link: http://barbecue.ru.com
+        link_text: Link Text
+        additional_links:
+          - title:  rust-am/barbecue
+            icon: fab fa-github
+            url: rust-am/barbecue
+        quote: >
+              Сайт где легко можно создать мероприятие и позвать на него всех друзей!
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+      - layout: middle
+        title: askmee
+        link: http://askmee.herokuapp.com
+        link_text: Link Text
+        additional_links:
+          - title:  rust-am/barbecue
+            icon: fab fa-github
+            url: rust-am/barbecue
+        quote: >
+              Сайт где легко можно создать мероприятие и позвать на него всех друзей!
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
 
-  <mark>Ruby</mark>: понимание принципов ООП, важности code-style и да, гемы лучшие друзья
+  - title: skils
+    layout: list
+    content:
+      - title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
 
-# Projects Section
-# projects_title: Projects
+  - title: Experience
+    layout: list
+    content:
+      - title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
 
-# Experience Section
-# experience_title: Experience
+  - title: Education
+    layout: list
+    content:
+      - title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
 
-# Education Section
-# educaton_title: Education
-
-# More Section
-more_title: When I'm Not Programming
-more_content: |
-
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: false
