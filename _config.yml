@@ -1,0 +1,53 @@
+# Site
+repository: sproogen/jameswgrant
+favicon: images/favicon.ico
+
+version: 1
+
+# Personal info
+name: Рустам Шайдуллов
+title: Ryby on Rails Developer
+email: 28rustam@gmail.com
+phone: +79872947036
+
+# Social links
+twitter_username: russel_ocean
+github_username:  rust-am
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+instagram_username: rustamshaidullov
+linkedin_username: rust-am
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
+
+# About Section
+# about_title: About Me
+about_profile_image: images/jg.jpg
+about_content: |
+  Привет, меня зовут Рустам, я геолог который хочет стать <mark>Ruby on Rails</mark> веб-разработчиком. 
+  В настоящее время учусь ...
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: When I'm Not Programming
+more_content: |
+
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+# sass:
+#   style: compressed
