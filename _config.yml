@@ -29,79 +29,31 @@ about_content: |
   Привет, меня зовут Рустам, я геолог который хочет стать <mark>Ruby on Rails</mark> веб-разработчиком. 
   В настоящее время учусь ...
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: middle
-        title: barbecue
-        link: http://barbecue.ru.com
-        link_text: Link Text
-        additional_links:
-          - title:  rust-am/barbecue
-            icon: fab fa-github
-            url: rust-am/barbecue
-        quote: >
-              Сайт где легко можно создать мероприятие и позвать на него всех друзей!
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-      - layout: middle
-        title: askmee
-        link: http://askmee.herokuapp.com
-        link_text: Link Text
-        additional_links:
-          - title:  rust-am/barbecue
-            icon: fab fa-github
-            url: rust-am/barbecue
-        quote: >
-              Сайт где легко можно создать мероприятие и позвать на него всех друзей!
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+# Projects Section
+# projects_title: Projects
 
-  - title: skils
-    layout: list
-    content:
-      - title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+#Experience Section
+experience_title: Experience
 
-  - title: Experience
-    layout: list
-    content:
-      - title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+#Education Section
+educaton_title: Education
 
-  - title: Education
-    layout: list
-    content:
-      - title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+technical_title: Technical Skills
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
+# More Section
+# more_title: A Little More About Me
+# more_content: | # this will include new lines to allow paragraphs
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
+#theme: modern-resume-theme
 remote_theme: sproogen/resume-theme
 
-# sass:
-#   style: compressed
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
