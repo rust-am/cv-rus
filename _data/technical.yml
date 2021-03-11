@@ -1,5 +1,4 @@
- - layout: left
-   description: | # this will include new lines to allow paragraphs
+ - description: | # this will include new lines to allow paragraphs
 
     <u>Ruby</u>
     Понимание принципов ООП, важности code-style и да, гемы лучшие друзья
