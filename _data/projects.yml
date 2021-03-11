@@ -1,8 +1,12 @@
-# - layout: top-middle
-#   name: Super awesome project
-#   link: github.com/sproogen
-#   github: sproogen/resume-theme
-#   quote: >
-#     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#   description: | # this will include new lines to allow paragraphs
-#     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+- layout: top-middle 
+  name: barbecue
+  link: http://barbecue.ru.com
+  github: rust-am/barbecue
+  quote: >
+    Сайт где легко можно создать мероприятие и позвать на него всех друзей!
+  description: |
+    В данном приложении вы можете создавать "События", на которые могут подписываться как ваши друзья, так и другие, желающие поучавстовать.
+
+    Если же вы хотите, чтобы доступ имели только друзья, то можете добавить пинкод к событию при создании и редактировании события.
+
+    Данное приложение реализовано на языке Ruby 2.7.1 и Rails 6.0.3.4

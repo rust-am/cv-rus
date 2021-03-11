@@ -1,10 +1,20 @@
-  - name: Minnesota State University, Mankato
-    dates: 1999-2003
-    qualification: BSc Computer Science
-    gpa: 3.61
+- name: Казанский (Приволжский) Федеральный Университет
+  dates: Сентябрь/2010 - Июнь/2015
+  description: |
+    Институт геологии и нефтегазовых технологий
 
-  - name: Minnesota State University, Mankato
-    dates: 2004-2010
-    qualification: MSc Computer Science
-    gpa: 3.5
-  
+    Геология и геохимия горючих ископаемых (специалитет)
+
+    Средний балл: 4.7
+
+- name: Казанский (Приволжский) Федеральный Университет
+  dates: Сентябрь/2019 - по настоящее время
+  description: |
+    Институт информационных технологий и интеллектуальных систем
+
+    Программная инженерия (магистратура)  
+
+- name: Хороший программист
+  dates: Сентябрь/2020 - Февраль/2021
+  description: |
+    Онлайн-интенсив по Ruby и Ruby on Rails, [сайт](https://goodprogrammer.ru/)

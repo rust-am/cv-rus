@@ -1,55 +1,48 @@
  - description: | # this will include new lines to allow paragraphs
 
-    <u>Programming Languages</u>
-    -	.Net Core (2.1/3.0/3.1), ASP.Net, C#, ASP.Net MVC, Web API
-    -	Java, JSP, Servlets, J2EE Architecture, EJB, Spring, Hibernate
-    -	Angular (2-8), AngularJs, KnockoutJS, JQGrid, Javascript, Chart.js, DataTable.js, Kendo UI, TypeScript, Bootstrap, CSS
-    -	XSL, C++, SSRS, Protobuf, Go, Python, JWT, JSON
+    <u>Ruby</u>
+    Понимание принципов ООП, важности code-style и да, гемы лучшие друзья
     
-    <u>Database</u>
+    <u>Ruby on Rails</u>
     
-    SQL Server, Sybase, DB2, Oracle, Teradata, Mongo, HBase, Hadoop, ADO.Net, JDBC, ReadyRoll, Liquibase
-    
-    <u>Testing</u>
-    
-    JUnit, NUnit, Selenium, VS Web Tests, Moq, Jasmine, JMeter, Apache Benchmark tool
-    
-    <u>IDE</u>
-    
-    MS Visual Studio, VS Code, IBM RAD, Eclipse
-    
-    <u>Search</u>
-    
-    Elastic Search, Lucene, Kibana
-    
-    <u>OS</u>
-    
-    Unix, Linux, Windows
-    
-    <u>Servers/ Hosting</u>
-    
-    Windows/IIS, WebSphere 6.1, Apache (Tomcat)
-    
-    <u>Cloud</u>
-    
-    MS Azure (PAAS, IAAS, App Services, Azure SQL, Azure Blob, Azure Functions), Amazon AWS (AWS Lambda, AWS S3 storage), Cloudberry
-    
-    <u>Security/ Vulnerability</u>
-    
-    Blackduck, HP Fortify, BMC, Qualys, OWASP, Alfabet, Veracode
-    
-    <u>Version Control/CI/CD</u>
-    
-    TFS, GIT, Mercurial, CVS, TFS, Subversion, Ant, Cruise Control
-    
-    <u>ETL</u>
-    
-    Informatica, SSIS, SQL Server Agent
-    
-    <u>Others</u>
-    
-    Dynatrace, Ap Dynamics, Grafana, MSMQ, FirstLogic, Cybermation ESP Scheduler, MS Visio, Norton Ghost, NDM, Autosys, CRM Dynamics 2011, Siebel, Thomson Reuters Portia, ITG Optimizer, Charles River
+    <b>Проектирования приложений:</b> постановка задачи, написание сценариев, сущности, CRUDL
 
+    На жизнь смотрю через призму <mark>MVC</mark>
 
+    <b>Active Record:</b> создание ассоциаций между моделями, построение запросов к базе данных с помощью интерфейса запросов, создание миграций, написание валидаций и коллбэков
+    
+    <b>Action Mailer:</b> рассылка почты с помощью <mark>Mailjet</mark>, для проверки использую гем <mark>Letter Opener</mark>
+
+    <b>Аутентификация пользователя</b> c помощью гема <mark>Devise</mark>, авторизация с <mark>Pundit</mark>. <mark>OmniAuth</mark> для входа через соц.сети
+
+    <b>Credentials:</b> для хранения ключей, паролей и другой конфиденциальной информации
+
+    <mark>i18n</mark>: для локализации приложения
+        
+    <u>Базы данных</u>
+        
+    <mark>SQLite</mark> 
+
+    <mark>PostgreSQL</mark>
+        
+    <u>Тестирование</u>
+    
+    Написание тестов на <mark>RSpec</mark> с использованием гема <mark>FactoryBot</mark>, так же интеграционных на <mark>Capybara</mark>
+
+    <u>Deploy</u>
+
+    Развертывание приложений на <mark>Heroku</mark>,настройка переменных окружения и работа с логами
+
+    Развертывание на VPS сервер <mark>DigitalOcean</mark> <mark>Nginx+Passenger</mark> <mark>PostgresSQL</mark>
+
+    Автоматическое(почти) развертывание с помощью <mark>Capistrano</mark>
+
+    <u>Frontend</u>
+
+    <mark>HTML5</mark>: эта строка к какому диву то относится?
+
+    <mark>CSS3</mark>: меняю шрифты по требованию заказчика, пользуюсь селекторами, могу подвинуть кнопку чуть-чуть вверх
+
+    <mark>Bootstrap</mark>: понимаю устройство сетки, блестяще гуглю названия классов
   
   

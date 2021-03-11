@@ -1,60 +1,92 @@
-- company: Thomson Reuters/ Refinitiv
-  job_title: Software Consultant
-  dates: March 2019 - April 2020
-  description: | # this will include new lines to allow paragraphs
-   
-   Front End Developer consultant for DataScope Select (DSS) product which is a hosted data extraction platform that provides access to global end-of-day pricing, validated terms and conditions, historical data content and cross-reference data for a wide range of instruments, including equities, funds, derivatives, money/foreign exchange, warrants, and fixed income securities.
-   
-   - Enhanced, supported, and maintained DSS product (GUI/Restapi/Service layer/Soap) as per product teams’ requests
-   - Fixed muted/flaky unit and integration tests in TeamCity
-   - Decommissioned multiple services from Rest API, Web UI and Soap service
-   - Enhanced the Search service by updating Elastic Search and Lucene Indexes
-   - Used LiquiBase to update the database to aid on the database deployment process
-   - Updated Protobuf for message sharing with the backend C++ services
-   - Enhanced RestApi throttling on Search Services to avoid frequent server crashes
-   - Analyze and improve SQL query performance by troubleshooting and fixing queries causing high CPU usage
-   
-   <mark>Environment</mark> 
-   
-   ASP.Net, .Net Core, Mercurial, Knockuot.js, Elastic Search (Nest), Kibana, Lucene, T4/templates, Code Generation, Sybase, RestApi, OData, Protobuf, Active MQueue, JIRA, Liquibase, AWS S3, FTP, Splunk, Nunit, RhinoMocks, Team City, Domain Driven Design, SOAP, Cloudberry
+- company: Sofoil
+  link: www.sofoil.ru
+  dates: Сентябрь/2019 - Март/2019
+  job_title: Аналитик
+  description: |
+    Анализ истории дебитов и забойного давления скважин для определения текущего и потенциального объема дренирования скважин, типа и удаленности границ, гидропроводности пласта, межскважинной связности, а также восстановления истории пластового давления и продуктивности скважин.
 
-- company: Wells Fargo, Minneapolis, MN
-  job_title: Lead Software Engineer
-  dates: Jun 2018 – Dec 2018/ March 2017– Oct 2017
-  description: | # this will include new lines to allow paragraphs
-   Enterprise Information Technology supports EAM strategies across the Wells Fargo Enterprise software platforms, along with other vertical initiatives as Secure Code and Vulnerabilities, Living Will and Recovery, Resolution Planning and SACM
-   
-   
-   - Led the efforts of migration of multiple applications to Azure PaaS environment
-   - Led the initiative to put in place functionality that allows for Application capability analysis, Vendor Product rationalization, Software health, Living Target Architecture road map using Alfabet 9.12
-   - Stabilized and standardized the SDLC processes such as unit testing and code reviews across multiple applications 
-   - Collaborated with developers and architects to create and review technical design documentations
-   - Worked with scrum masters, product owners, and management to maintain a more manageable backlog
-   - Used tools like BlackDuck and HP Fortify to maintain quality of source code that meet the OWSAP recommendations
-   - Reviewed stories to put them in proper “Given-When-Then” BDD format 
-   - Initiated proper support mechanism for applications migrating to lower RTO/RPO level
-   - Created technical design documents, high level designs and architecture diagrams
-   
-   
-   <mark>Environment</mark> 
-   
-   ASP.Net, .Net Core, TFS, AngularJS, Angular, Javascript, LINQ, CSS, Less, AJAX, JQuery, JSON, SQL Server 2014, Stored Procedure, T-SQL, SSRS, IIS, Windows 2012, Autosys, NDM, Telerik, Bootstrap, SSIS, Jira, BDNA, Remedy, Teradata, HP Fortify, Entity Framework, OWSAP, Azure PaaS, Artifactory, App Dynamics, Dynatrace, BlackDuck, Software AG Alfabet 9.12, Javascript
+- company: ТатНИПИнефть (Татнефть)
+  dates: Декабрь/2017 – Март/2019
+  job_title: Отдел разработки нефтяных месторождений, геолог
+  description: |
+    Написание геологической части технологической схемы разработки месторождения.
 
-- company: State of MN, St. Paul, MN
-  job_title: Senior .Net Consultant
-  dates: Oct 2017 – Jun 2018
-  description: | # this will include new lines to allow paragraphs
-   Depart of Public Safety (DPS) maintains the systems for Driver’s License, Driver Identity, Compliance, Vehicle Title, Vehicle Registration, Dealer Licensing, Plate Inventory for the State Of MN. 
-  
-   
-   - Aided in the efforts to migrate Driver Vehicle Services from mainframe to CQRS/.Net/WebApi/Angular/AWS environment
-   - Led the efforts for the stabilization of plates and sticker issues in the vehicle registration domain that included issues such as multiple plates issuances, plates being issued when not requested, extra plate charges for sticker renewals, etc.
-   - Created and maintained multiple CQRS/ES based API endpoints 
-   - Created and maintained multiple UI solutions based on Angular, AngularJS 
-   - Created ReadyRoll scripts for database changes
-   - Conducted and requested for code reviews using TFS
-   
-   
-   <mark>Environment</mark> 
-   
-   .Net, WebApi, Angular, AngularJS, NPM, Gulp, Ninject, Entity Framework, TFS, SAFE Agile, Less, Jasmine, Protractor, TDD, SQL Server, Rally, AWS, App Dynamics, Splunk, Stackify, JSON, JWT, Visual Studio, Solid principles, CQRS, ReadyRoll, SSRS
+    Подсчет запасов нефтяного месторождения и последующая защита в Министерстве природных ресурсов.
+
+    Построение геологической модели месторождения в программном продукте RMS(посчетная модель/модель для разработки).
+
+- company: Scientific Drilling International (SDI)
+  dates: Август/2016 – Ноябрь/2017
+  job_title: Отдел измерений в процессе бурения, LWD/MWD инженер
+  description: |
+    Сборка и тестирование оборудования.
+
+    Установка телесистемы в КНБК, контроль спуска и работы оборудования телесистемы.
+
+    Получение инклинометрической и каротажной информации с оборудования, ее
+    расшифровка и обработка.
+
+    Контроль наличия оборудования телесистемы, своевременный учет наработки
+    навесного оборудования телесистемы.
+
+    Подготовка и предоставление отчетной документации.
+
+    Обеспечение качественной и безопасной организации работ при эксплуатации и
+    обслуживании телесистемы.
+
+- company: Региональный центр инжиниринга ХимТех
+  dates: Март/2016 – Июль/2016
+  job_title: Лаборатория интенсификации добычи нефти и повышения нефтеотдачи, инженер
+  description: |
+    Оценка фильтрационно-емкостных свойств пород.
+
+    Оценка коэффициентов вытеснения нефти в пластовых условиях (нестационарная и
+    стационарная фильтрации.
+
+    Тестирование существующих методов по повышению нефтеотдачи, как индивидуально,
+    так и в комплексе с другими уже существующими.
+
+    Разработка новых методов по повышению нефтеотдачи, как индивидуальных так и
+    комплексных.
+
+    Обработка данных полученных при: 1.Однофазной фильтрации флюида 2.Двухфазной
+    фильтрации флюидов 3.Стационарной и нестационарной фильтрации
+    4.Центрифугировании 5.Фильтрации ртути (определения пор по размерам).
+
+- company: Schlumberger (производственная практика)
+  dates: Август/2014
+  job_title: Сегмент измерений в процессе бурения (D&M)
+  description: |
+    Изучение норм охраны труда, безопасности и защиты окружающей среды (HSE). Анализ
+    и изучение принципов работы приборов сегмента D&M.
+
+    Приобритение опыта инженеров сегмента D&M.
+
+    Создание итоговой презентации и ее защита.
+
+- company: TiandiEnergy (производственная практика)
+  link: www.tiandienergy.com
+  dates: Июнь/2014 - Август/2014
+  description: |
+    Июнь. Изучение и работа в программе I-point: анализ и введение данных о сважине в
+    программу.
+
+    Июль (1-20). Программа Openwell: оцифровка данных и введение их в программу для
+    дальнейшего анализа и построения схемы скважины.
+
+    Июль - Август. Программа WellView: изучение данных скважины, введение их в
+    программу (оцифровка), построение схемы скважины
+    
+- company: Татнефть (производственная практика)
+  dates: Май/2013 - Июнь/2013
+  job_title: НГДУ «Бавлынефть», Геолог
+  description: |
+    Интепритация кривых ГИС.
+
+    Построение структурных карт по отражающем гиризонтам.
+
+    Описание отобранного из скважин керна.
+
+    Изучение сводного геологического разреза исследуемой территории.
+    
+    Отбор материала для написания курсовой работы.

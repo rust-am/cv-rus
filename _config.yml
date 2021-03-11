@@ -2,34 +2,32 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
+version: 1
+
 # Personal info
-name: Abhaya Maskey
-title: .Net Software Consultant
-email: maskeyconsulting@gmail.com
-#website: www.github.com/maskeyconsulting/resume
+name: Рустам Шайдуллов
+title: Ryby on Rails Developer
+email: 28rustam@gmail.com
+phone: 9872947036
 
 # Social links
-github_username:  maskeyconsulting
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: chillwildlife
-linkedin_username: abhaya-maskey-00a9b7a
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
+twitter_username: russell_ocean
+github_username:  rust-am
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+instagram_username: rustamshaidullov
+linkedin_username: rust-am
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
- Hi, my name is  Abhaya and I'm a dot Net Software Consultant with 12+ years of experience in designing, developing, and implementing solutions using various software paradigms with focus on simple solutions to complex problems.
- I have good understanding of many programming languages along with Object Oriented Design concepts (Solid), Domain Driven Design, CQRS/ES/Microservices, SOA, MVC, Design Patterns and Clean Code practices.
- I also have expertise in all stages of SDLC including Requirements gathering, Documentation, Implementation, Unit testing, System/Integration testing, and Deployment.
- I am experienced in UI technologies and web UI frameworks like Knockout.JS, AngularJS and Angular.
- I have strong knowledge and understanding of AGILE methodologies with experience using TDD/BDD practices in Kanban and Scrum environments.
-
- I am most skilled in: <mark>ASP.Net and C#</mark>
+about_profile_image: images/jg.jpg
+about_content: |
+  Привет, меня зовут Рустам, я геолог который хочет стать <mark>Ruby on Rails</mark> веб-разработчиком. 
+  В настоящее время учусь ...
 
 # Projects Section
 # projects_title: Projects
@@ -44,13 +42,7 @@ technical_title: Technical Expertise
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  # # Alongside my interests in Software Engineering I love talking  about:
-   - Data Science / AI / Machine Learning
-   - Quantum Computing
-   - Zen Buddhism
-   - Books
-   - Watching movies
+# more_content: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: true
