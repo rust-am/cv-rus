@@ -1,6 +1,7 @@
  - description: | # this will include new lines to allow paragraphs
 
     <u>Ruby</u>
+
     Понимание принципов ООП, важности code-style и да, гемы лучшие друзья
     
     <u>Ruby on Rails</u>
@@ -11,19 +12,23 @@
 
     <b>Active Record:</b> создание ассоциаций между моделями, построение запросов к базе данных с помощью интерфейса запросов, создание миграций, написание валидаций и коллбэков
     
-    <b>Action Mailer:</b> рассылка почты с помощью <mark>Mailjet</mark>, для проверки использую гем <mark>Letter Opener</mark>
+    <b>Action Mailer:</b> рассылка почты с помощью <mark>Mailjet</mark>, на локальном окружении использую гем <mark>Letter Opener</mark>
 
     <b>Аутентификация пользователя</b> c помощью гема <mark>Devise</mark>, авторизация с <mark>Pundit</mark>. <mark>OmniAuth</mark> для входа через соц.сети
 
     <b>Credentials:</b> для хранения ключей, паролей и другой конфиденциальной информации
 
     <mark>i18n</mark>: для локализации приложения
+
+    <mark>Carrierwave</mark> <mark>Rmagick</mark> <mark>Fog::Aws</mark>: для загрузки, обработки и хранения изображений(файлов)
+
+    <mark>Webpacker</mark>: для интеграции Rails со сборщиком ассетов webpack
+
+    <mark>Pry</mark>: для дебага
         
     <u>Базы данных</u>
         
-    <mark>SQLite</mark> 
-
-    <mark>PostgreSQL</mark>
+    <mark>SQLite</mark> <mark>PostgreSQL</mark>
         
     <u>Тестирование</u>
     
@@ -31,7 +36,7 @@
 
     <u>Deploy</u>
 
-    Развертывание приложений на <mark>Heroku</mark>,настройка переменных окружения и работа с логами
+    Развертывание приложений на <mark>Heroku</mark>, настройка переменных окружения и работа с логами
 
     Развертывание на VPS сервер <mark>DigitalOcean</mark> <mark>Nginx+Passenger</mark> <mark>PostgresSQL</mark>
 
