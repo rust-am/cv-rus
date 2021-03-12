@@ -38,7 +38,7 @@
 
     Развертывание приложений на <mark>Heroku</mark>, настройка переменных окружения и работа с логами
 
-    Развертывание на VPS сервер <mark>DigitalOcean</mark> <mark>Nginx+Passenger</mark> <mark>PostgresSQL</mark>
+    Развертывание на VPS сервер <mark>DigitalOcean</mark> + <mark>Nginx+Passenger</mark>
 
     Автоматическое(почти) развертывание с помощью <mark>Capistrano</mark>
 
