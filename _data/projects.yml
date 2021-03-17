@@ -1,5 +1,5 @@
 - layout: top-middle 
-  name: barbecue
+  name: Приложение "barbecue"
   link: http://barbecue.ru.com
   github: rust-am/barbecue
   quote: >
@@ -12,7 +12,7 @@
     Данное приложение реализовано на языке Ruby 2.7.1 и Rails 6.0.3.4
 
 - layout: top-middle 
-  name: askmee
+  name: Приложение "askmee"
   link: https://aaskmee.herokuapp.com
   github: rust-am/askmee
   quote: >
